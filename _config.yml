@@ -6,10 +6,10 @@
 # 'jekyll serve'. If you change this file, please restart the server process.
 
 # Site settings
-title: hengrui tech blog
-brief-intro: 主要研究统计学。
+title: hengrui OpenCourseWare
+brief-intro: 公开课
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "https://www.hengrui.tech" # the base hostname & protocol for your site
+url: "https://opencourseware.hengrui.tech/" # the base hostname & protocol for your site
 
 permalink: /:year/:month/:day/:title/
 
@@ -23,7 +23,7 @@ zhihu_username:
 linkedIn_username: 
 dribbble_username:
 
-description_footer: 记录我的统计学学习之路！数学，计算机，经济与金融！
+description_footer: 数学与计算机公开课！
 
 # comments
 # two ways to comment, only choose one, and use your own short name
