@@ -25,3 +25,4 @@ Python基础主要是讲些入门的知识吧，外加上统计部分，会用Py
 
 
 # 资料下载
+[lecture note.docx](https://github.com/CheungPro/opencourseware/files/9166187/lecture.note.docx)
