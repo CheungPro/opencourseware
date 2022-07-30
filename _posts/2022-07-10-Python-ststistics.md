@@ -18,7 +18,9 @@ Python基础主要是讲些入门的知识吧，外加上统计部分，会用Py
 最后感谢大家对本课程的支持。
 
 # 课程目录
+
  ## Lecture 1 Python基础
+ 
  作业1
  [202208Week1.docx](https://github.com/CheungPro/opencourseware/files/9225446/202208Week1.docx)
  作业1的答案将在8月7日前公布。
